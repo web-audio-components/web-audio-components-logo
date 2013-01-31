@@ -1,7 +1,7 @@
 web-audio-components-logo
 =========================
 
-Logo for the Web Audio Components project
+A sweet logo by [Node Philly's](http://node.ph/) [Brett Whitham](https://github.com/bwhitham) for the Web Audio Components project.
 
 ### Raster
 
